@@ -52,6 +52,11 @@ body {
     color:rgb(233, 50, 117);
 }
 
+.links-container:active {
+    background-color: white;
+    color: rgb(233, 50, 117);
+}
+
 *, *::before, ::after {
     -moz-box-sizing:border-box;
     -webkit-box-sizing:border-box;
